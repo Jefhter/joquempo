@@ -3,19 +3,19 @@ Um código para uma possível aula prática sobre Classes com Python
 
 ## Funcionalidades Trabalhadas
 
-📚 Classes
+- Classes
 
-📚 Funções
+- Funções
 
-📚 Tratamentos de Erros
+- Tratamentos de Erros
 
-📚 Arrays (Listas)
+- Arrays (Listas)
 
-📚 Bibliotecas
+- Bibliotecas
 
-- Random
-- Time
+📚 Random
+📚 Time
 
-📚 Estrutura Lógica
+- Estrutura Lógica
 
-📚 Laço de Repetição
+- Laço de Repetição
